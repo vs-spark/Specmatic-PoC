@@ -794,3 +794,5 @@ node_modules/winston-transport/.nyc_output/processinfo/9e733014-aac3-4cf5-9497-1
 node_modules/winston-transport/.nyc_output/processinfo/index.json
 node_modules/winston-transport/dist/index.js
 node_modules/winston-transport/dist/legacy.js
+
+.specmatic

@@ -2,9 +2,9 @@
   "sources": [
     {
       "provider": "git",
-      "repository": "https://github.com/your-username-or-org/your-repo.git",
+      "repository": "https://github.com/vs-spark/Specmatic-PoC.git",
       "test": [
-        "path/to/employees.yaml"
+        "employees.yaml"
       ]
     }
   ]
