@@ -1,0 +1,11 @@
+{
+  "sources": [
+    {
+      "provider": "git",
+      "repository": "https://github.com/your-username-or-org/your-repo.git",
+      "test": [
+        "path/to/employees.yaml"
+      ]
+    }
+  ]
+}
